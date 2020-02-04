@@ -1,1 +1,2 @@
-export default () => <h1>Index</h1>;
+import { Button } from "antd";
+export default () => <Button>Index</Button>;
